@@ -1,7 +1,7 @@
 [
 	{
 		"id": "ace-editor",
-		"name": "Aceupd",
+		"name": "Aceupdated",
 		"description": "Ace (Ajax.org Cloud9 Editor) is a standalone code editor written in JavaScript. It embeds a fully-featured code editor (like the one in VSCode or Sublime) into any web page. Ace supports syntax highlighting for dozens of languages, automatic indentation, themes, keybindings (Emacs, Vim), and large file handling. It powers many web-based IDEs and code playgrounds thanks to its flexibility and performance. Ace can be easily integrated into web applications to provide users with a rich editing experience (for example, editing code, configuration files, or other text content directly in the browser).",
 		"category": "Frontend",
 		"license": "BSD-3-Clause",
