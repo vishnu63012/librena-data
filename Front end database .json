@@ -1,0 +1,1301 @@
+[
+	{
+		"id": "ace-editor",
+		"name": "Ace",
+		"description": "Ace (Ajax.org Cloud9 Editor) is a standalone code editor written in JavaScript. It embeds a fully-featured code editor (like the one in VSCode or Sublime) into any web page. Ace supports syntax highlighting for dozens of languages, automatic indentation, themes, keybindings (Emacs, Vim), and large file handling. It powers many web-based IDEs and code playgrounds thanks to its flexibility and performance. Ace can be easily integrated into web applications to provide users with a rich editing experience (for example, editing code, configuration files, or other text content directly in the browser).",
+		"category": "Frontend",
+		"license": "BSD-3-Clause",
+		"cost": "Free",
+		"size": "1.4 MB",
+		"version": "1.10.1",
+		"stars": 25000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Code Editor",
+			"IDE",
+			"Syntax Highlight",
+			"Browser"
+		],
+		"source": "https://ace.c9.io"
+	},
+	{
+		"id": "ag-grid",
+		"name": "AG Grid",
+		"description": "AG Grid is a feature-rich data grid component available in both open-source (Community Edition) and commercial (Enterprise Edition) versions. It supports plain JavaScript as well as Angular, React, and Vue integrations. AG Grid is known for high performance with large data sets and offers advanced functionalities like filtering, sorting, grouping, aggregation, pivoting, and live updates. The Enterprise version adds even more features like Excel export, clipboard operations, and master-detail. It’s widely used in enterprise applications where a powerful and customizable datagrid is a central requirement.",
+		"category": "Frontend",
+		"license": "MIT (Community), Proprietary (Enterprise)",
+		"cost": "Free / ~$1500 per developer (Enterprise)",
+		"size": "2 MB",
+		"version": "29.3.3",
+		"stars": 11000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Data Grid",
+			"Tables",
+			"Enterprise",
+			"Angular"
+		],
+		"source": "https://www.ag-grid.com"
+	},
+	{
+		"id": "alpinejs",
+		"name": "Alpine.js",
+		"description": "Alpine.js is a lightweight JavaScript framework characterized as “jQuery for the modern web”. It offers a declarative way to add interactivity to HTML markup with minimal code, inspired by Vue.js and React, but significantly smaller. Using attributes like x-data, x-bind, and x-on, developers can control state and behavior directly in the HTML. Alpine is great for sprucing up server-rendered pages with interactive components without a full build step or framework overhead. It’s often used as a simpler alternative to heavy frameworks for cases where just a bit of JavaScript behavior is needed.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.08 MB",
+		"version": "3.12.0",
+		"stars": 23000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Lightweight",
+			"Reactive",
+			"DOM"
+		],
+		"source": "https://alpinejs.dev"
+	},
+	{
+		"id": "angular",
+		"name": "Angular",
+		"description": "Angular is a comprehensive front-end web framework developed by Google for building client-side applications. It is a TypeScript-based framework that provides a structured MVC/MVVM architecture, powerful templating, two-way data binding, and dependency injection out of the box. Angular is well-suited for large enterprise applications and is kept up-to-date with regular releases (Angular 16+), ensuring long-term support and performance improvements.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "5 MB",
+		"version": "16.1.0",
+		"stars": 97000,
+		"last_updated": "May 2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Framework",
+			"SPA",
+			"TypeScript"
+		],
+		"source": "https://angular.io"
+	},
+	{
+		"id": "animejs",
+		"name": "Anime.js",
+		"description": "Anime.js is a lightweight JavaScript animation library with a simple but powerful API. It works with CSS properties, SVG, DOM attributes, and JavaScript objects, making it versatile for different kinds of animations. With Anime.js, developers can create complex animation sequences (including timelines) with play, pause, seek controls, and it supports easing functions, motion along paths, and other advanced features. Its small size and broad browser compatibility make it a go-to choice for adding polished animations and effects to web pages without heavy overhead.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.02 MB",
+		"version": "3.2.1",
+		"stars": 15000,
+		"last_updated": "2021",
+		"os": "Cross-platform",
+		"tags": [
+			"Animation",
+			"SVG",
+			"Canvas",
+			"Tweening"
+		],
+		"source": "https://animejs.com"
+	},
+	{
+		"id": "ant-design",
+		"name": "Ant Design",
+		"description": "Ant Design is a comprehensive UI library and design system for building enterprise-level web applications, originally created by Alibaba. It offers a wide range of high-quality React components (and implementations in Angular/Vue) such as tables, forms, charts, and navigation elements, all styled with a clean, consistent look. Ant Design follows a set of well-thought-out design principles and provides a theme customization system. It is favored for developing data-intensive and business applications where out-of-the-box, polished components can greatly accelerate development.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "5.2 MB",
+		"version": "5.5.0",
+		"stars": 84000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"React",
+			"UI Kit",
+			"Enterprise",
+			"Design System"
+		],
+		"source": "https://ant.design"
+	},
+	{
+		"id": "apollo-client",
+		"name": "Apollo Client",
+		"description": "Apollo Client is a comprehensive state management library for JavaScript that enables developers to manage both local and remote data with GraphQL. Often used with React (via apollo-client React hooks), it simplifies fetching, caching, and modifying application data. Apollo handles GraphQL queries and mutations, automatically caches query results, and updates UI components in response to data changes. It also supports features like optimistic UI (for instant feedback on mutations), subscriptions for real-time data, and devtools for debugging. It’s a critical part of the Apollo GraphQL ecosystem and is widely adopted in apps that use GraphQL APIs.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.13 MB",
+		"version": "3.7.8",
+		"stars": 18000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"GraphQL",
+			"State Management",
+			"React",
+			"Data"
+		],
+		"source": "https://www.apollographql.com/docs/react/"
+	},
+	{
+		"id": "aurelia",
+		"name": "Aurelia",
+		"description": "Aurelia is a forward-thinking, modular JavaScript framework for web development. It leverages strong conventions to eliminate boilerplate and features two-way data-binding, dependency injection, and powerful templating capabilities. Aurelia is written with modern ES2015+ and has no external dependencies, using native modules. It is designed as a collection of feature-oriented modules, meaning developers can pick and choose parts of Aurelia (like the binding or router) a la carte. Known for its simplicity and clean architecture, Aurelia can be a good choice for building maintainable front-end apps at scale.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.50 MB",
+		"version": "2.0.0",
+		"stars": 13000,
+		"last_updated": "2022",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Framework",
+			"MVC",
+			"Two-way binding"
+		],
+		"source": "https://aurelia.io"
+	},
+	{
+		"id": "axios",
+		"name": "Axios",
+		"description": "Axios is a promise-based HTTP client for the browser and Node.js, used for making HTTP requests (e.g., AJAX calls). It provides a simple API to send asynchronous HTTP requests to REST endpoints and perform CRUD operations. Axios automatically transforms JSON data, supports interceptors (to globally handle request/response or errors), and is easily configurable (base URLs, headers, timeouts). It has become one of the go-to libraries for handling network requests in JavaScript applications due to its ease of use and broad compatibility.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.02 MB",
+		"version": "1.3.4",
+		"stars": 100000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"HTTP",
+			"AJAX",
+			"Promise"
+		],
+		"source": "https://axios-http.com"
+	},
+	{
+		"id": "babel",
+		"name": "Babel",
+		"description": "Babel is a popular JavaScript compiler (transpiler) that lets developers write code using next-generation JavaScript (ES6/ES7+ and JSX) or other languages (TypeScript) and have it transformed into backwards-compatible version of JavaScript that current and older browsers can execute. Babel is highly configurable with presets and plugins to handle syntax transforms, polyfills, and source maps. It is often used in the build process of web applications, especially those using frameworks like React or Angular, to ensure modern syntax and features run seamlessly in all target environments.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "1.5 MB",
+		"version": "7.21.0",
+		"stars": 42000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Compiler",
+			"ES6",
+			"Transpiler"
+		],
+		"source": "https://babeljs.io"
+	},
+	{
+		"id": "babylonjs",
+		"name": "Babylon.js",
+		"description": "Babylon.js is an advanced 3D engine for building immersive web experiences with HTML5 and WebGL. It enables developers to create 3D scenes and games entirely in the browser with support for physics, advanced materials, lighting, shadows, and even VR/AR experiences. Babylon.js has a rich API and a playground for testing code live. It provides high-level features like a glTF loader for 3D models and a physics engine integration, abstracting many WebGL details so developers can focus on content.",
+		"category": "Frontend",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "1.8 MB",
+		"version": "6.0.0",
+		"stars": 21000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"3D Engine",
+			"WebGL",
+			"GameDev"
+		],
+		"source": "https://www.babylonjs.com"
+	},
+	{
+		"id": "backbonejs",
+		"name": "Backbone.js",
+		"description": "Backbone.js is a lightweight JavaScript library that gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, and views with declarative event handling. It was one of the earliest MVC (Model-View-Controller) libraries for the web, helping developers organize code for single-page applications. Backbone relies on Underscore.js and jQuery, and while less common today, it paved the way for more structured client-side development.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.08 MB",
+		"version": "1.4.0",
+		"stars": 28000,
+		"last_updated": "July 2019",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"MVC",
+			"SPA",
+			"Lightweight"
+		],
+		"source": "https://backbonejs.org"
+	},
+	{
+		"id": "bootstrap",
+		"name": "Bootstrap",
+		"description": "Bootstrap is the world’s most popular HTML, CSS, and JavaScript framework for building responsive, mobile-first websites. Originally developed by Twitter, Bootstrap provides a comprehensive collection of pre-styled components like grids, buttons, forms, navigation, and more, which developers can easily drop into their projects. It ensures consistency across browsers and devices, and includes a responsive grid system and extensive theming capabilities. Bootstrap greatly accelerates front-end development by offering out-of-the-box solutions for common UI needs.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.19 MB",
+		"version": "5.3.2",
+		"stars": 172000,
+		"last_updated": "April 2025",
+		"os": "Cross-platform",
+		"tags": [
+			"CSS",
+			"Framework",
+			"Responsive",
+			"UI"
+		],
+		"source": "https://getbootstrap.com"
+	},
+	{
+		"id": "bulma",
+		"name": "Bulma",
+		"description": "Bulma is a modern, open-source CSS framework based on Flexbox, used for building responsive web interfaces. It is purely CSS (with no JavaScript required) and offers an extensive range of ready-to-use components and utility classes, such as grids, columns, buttons, forms, and more. Bulma’s design is clean and elegant out-of-the-box, and it emphasizes ease of use—developers can apply classes to HTML elements to achieve complex layouts and styling quickly. Its modular nature also allows importing only the needed components for smaller footprint.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.25 MB",
+		"version": "0.9.4",
+		"stars": 47000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"CSS",
+			"Framework",
+			"Responsive",
+			"Flexbox"
+		],
+		"source": "https://bulma.io"
+	},
+	{
+		"id": "chartist",
+		"name": "Chartist",
+		"description": "Chartist.js is a simple, responsive, and lightweight charting library that uses SVG to render charts. It aims to offer cool-looking charts out of the box with sensible defaults, while allowing easy customization via CSS and JavaScript options. Chartist supports line, bar, pie, and other basic chart types, and automatically adapts to different screen sizes (responsive). While not as feature-rich as larger chart libraries, Chartist’s focus on responsiveness and small size makes it ideal for dashboards or reports where only basic charts are needed without a large library overhead.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.02 MB",
+		"version": "0.11.4",
+		"stars": 13000,
+		"last_updated": "2018",
+		"os": "Cross-platform",
+		"tags": [
+			"Charts",
+			"SVG",
+			"Responsive",
+			"Lightweight"
+		],
+		"source": "https://gionkunz.github.io/chartist-js"
+	},
+	{
+		"id": "chartjs",
+		"name": "Chart.js",
+		"description": "Chart.js is a simple yet flexible JavaScript library for creating interactive charts on web pages. It supports a variety of chart types—line, bar, pie, radar, polar area, scatter, and more—and is based on the HTML5 canvas element. Chart.js is known for its ease of use: with minimal code you can turn your data into beautiful visualizations, and it offers animation, tooltips, and extensibility via plugins. It’s widely used for embedding analytics and data visualization in web applications with minimal overhead.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.28 MB",
+		"version": "4.2.1",
+		"stars": 60000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Charts",
+			"Visualization",
+			"Canvas"
+		],
+		"source": "https://www.chartjs.org"
+	},
+	{
+		"id": "cytoscapejs",
+		"name": "Cytoscape.js",
+		"description": "Cytoscape.js is an open-source graph theory (network) library for visualizing interactive graphs in the browser. It allows developers to create, manipulate, and style graphs (nodes and edges) and supports a variety of graph layouts (force-directed, concentric, grid, etc.). With Cytoscape.js, users can pan, zoom, and interact with network nodes. It is built for performance even with large graphs and has extensions for additional functionality. Common use cases include social network analysis, bioinformatics (pathway diagrams), and any application that needs to display relationships between entities.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.24 MB",
+		"version": "3.24.0",
+		"stars": 6300,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Graph",
+			"Visualization",
+			"Networks",
+			"Analysis"
+		],
+		"source": "https://js.cytoscape.org"
+	},
+	{
+		"id": "d3js",
+		"name": "D3.js",
+		"description": "D3.js (Data-Driven Documents) is a powerful JavaScript library for producing dynamic, interactive data visualizations in web browsers. It uses HTML, SVG, and CSS to bring data to life, allowing developers to bind data to DOM elements and apply data-driven transformations to the document. D3 provides low-level building blocks (like scales, axes, shapes, etc.) rather than pre-built chart components, giving maximal flexibility to create custom visualizations. It’s highly performant for handling large datasets and is the foundation for many chart libraries and advanced visualizations on the web.",
+		"category": "Frontend",
+		"license": "BSD-3-Clause",
+		"cost": "Free",
+		"size": "0.53 MB",
+		"version": "7.8.4",
+		"stars": 105000,
+		"last_updated": "2022",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Visualization",
+			"SVG",
+			"Data"
+		],
+		"source": "https://d3js.org"
+	},
+	{
+		"id": "datatables",
+		"name": "DataTables",
+		"description": "DataTables is a jQuery plugin that adds advanced interactive controls to HTML tables. It provides features like pagination, instant search filtering, sorting by columns, and the ability to fetch data via AJAX to populate the table. DataTables is highly extensible with a plugin architecture—additional functionalities such as column reordering, fixed headers, and export buttons can be added. It is often used in dashboards and admin interfaces to handle tabular data elegantly without needing to reinvent table behaviors. The core library is open-source (MIT), with some optional plug-ins under GPL.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.07 MB",
+		"version": "1.13.4",
+		"stars": 7000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"jQuery",
+			"Table",
+			"Grid",
+			"Pagination"
+		],
+		"source": "https://datatables.net"
+	},
+	{
+		"id": "dayjs",
+		"name": "Day.js",
+		"description": "Day.js is a minimalist JavaScript library for date and time manipulation, designed to be a modern alternative to Moment.js. It has an almost identical API to Moment, making it easy to replace, but it is much smaller (around 2KB) and immutable. Day.js supports parsing, validating, manipulating, and formatting dates, with internationalization (i18n) support for dozens of locales. Through plugin extensions, it can handle relative time, custom parse formats, advanced calendars, and time zones, all while remaining lightweight.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.02 MB",
+		"version": "1.11.7",
+		"stars": 43000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Date",
+			"Time",
+			"MomentJS-alternative"
+		],
+		"source": "https://day.js.org"
+	},
+	{
+		"id": "echarts",
+		"name": "ECharts",
+		"description": "Apache ECharts (formerly just ECharts) is a powerful, open-source visualization library written in JavaScript. It provides a rich set of interactive charts including line graphs, bar charts, pie charts, scatter plots, heatmaps, treemaps, and more, with smooth animations. ECharts is highly extensible and configurable, with support for large datasets and real-time updates. It is often used in dashboards and data analysis tools, and being an Apache project, it’s completely free and maintained by a community of contributors.",
+		"category": "Frontend",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "0.78 MB",
+		"version": "5.4.2",
+		"stars": 55000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Charts",
+			"Visualization",
+			"Apache"
+		],
+		"source": "https://echarts.apache.org"
+	},
+	{
+		"id": "emberjs",
+		"name": "Ember.js",
+		"description": "Ember.js is an open-source JavaScript framework for building ambitious web applications. It follows the convention-over-configuration philosophy, providing a complete solution with its own router, services, and build tools, which helps developers be productive out-of-the-box. Ember uses a component-based UI approach (with Handlebars templates) and is known for its robust ecosystem and backwards compatibility. It is often used for complex, feature-rich single-page applications in enterprise environments.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "1.2 MB",
+		"version": "4.12.0",
+		"stars": 22000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Framework",
+			"MVC",
+			"Web"
+		],
+		"source": "https://emberjs.com"
+	},
+	{
+		"id": "eslint",
+		"name": "ESLint",
+		"description": "ESLint is a widely used pluggable linting utility for JavaScript and TypeScript. It analyzes code for syntax errors, potential bugs, and style issues based on a set of rules and can automatically fix some problems. ESLint is highly configurable with shareable configs (like Airbnb or Google style guides) and supports custom rule plugins. By integrating ESLint into development workflows (IDE integrations or pre-commit hooks), developers ensure code consistency and catch common mistakes early, improving code quality across large teams and projects.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "7.5 MB",
+		"version": "8.35.0",
+		"stars": 23000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Linting",
+			"Quality",
+			"Static Analysis",
+			"JavaScript"
+		],
+		"source": "https://eslint.org"
+	},
+	{
+		"id": "extjs",
+		"name": "Ext JS",
+		"description": "Ext JS is a mature JavaScript framework for building data-intensive, enterprise-grade web applications. It provides a comprehensive set of GUI components like grids, forms, trees, menus with a robust MVC/MVVM architecture. Ext JS is known for its rich feature set (such as powerful grid with virtual scrolling, locking, and editing) and a consistent look-and-feel via theming. Originally developed by Sencha, Ext JS is distributed under a dual licensing model: open-source GPL for open applications and a commercial license for proprietary use. It’s often used in enterprise environments where a full-stack front-end solution is desired.",
+		"category": "Frontend",
+		"license": "GPL-3.0 / Commercial",
+		"cost": "$1295/developer",
+		"size": "7 MB",
+		"version": "7.6.0",
+		"stars": 11000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Framework",
+			"Enterprise",
+			"Widgets"
+		],
+		"source": "https://sencha.com/products/extjs"
+	},
+	{
+		"id": "foundation",
+		"name": "Foundation",
+		"description": "Foundation is a responsive front-end framework that provides a flexible grid system and a large set of UI components, similarly to Bootstrap. Developed by ZURB, Foundation is known for being highly customizable and mobile-first. It includes HTML/CSS components and optional JavaScript plugins (for things like modals, tooltips, and carousels) and emphasizes a design-agnostic approach, allowing designers to start with a basic foundation and build their own look on top. It has been used in many production websites as a solid base for responsive design.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.37 MB",
+		"version": "6.7.5",
+		"stars": 29000,
+		"last_updated": "2021",
+		"os": "Cross-platform",
+		"tags": [
+			"CSS",
+			"Framework",
+			"Responsive",
+			"UI"
+		],
+		"source": "https://get.foundation"
+	},
+	{
+		"id": "fullcalendar",
+		"name": "FullCalendar",
+		"description": "FullCalendar is a full-featured JavaScript calendar library that provides a visually rich and interactive calendar component in the browser. It can display daily, weekly, monthly views and supports drag-and-drop for events, event editing, and integration with external data (like Google Calendar). FullCalendar offers theming (including Bootstrap theme support) and a plugin system for additional features like timeline or resource scheduling. It’s often used in dashboards and scheduling applications where a robust calendar UI is needed. The core is free and open-source, with additional premium plugins available for purchase.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free (core); Paid addons",
+		"size": "0.17 MB",
+		"version": "6.1.4",
+		"stars": 14000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Calendar",
+			"Scheduling",
+			"jQuery-plugin",
+			"Events"
+		],
+		"source": "https://fullcalendar.io"
+	},
+	{
+		"id": "gatsby",
+		"name": "Gatsby",
+		"description": "Gatsby is an open-source front-end framework based on React, designed for building fast static websites and applications. It uses GraphQL under the hood to pull data from various sources, and pre-renders pages at build time for optimal performance (a Jamstack approach). Gatsby has an extensive plugin ecosystem for adding functionality like CMS integration, image optimization, and offline support. The result is a highly optimized site that can be deployed anywhere as static files while still enabling dynamic features via client-side React.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "4 MB",
+		"version": "4.24.0",
+		"stars": 54000,
+		"last_updated": "2022",
+		"os": "Cross-platform",
+		"tags": [
+			"React",
+			"Static Site",
+			"GraphQL",
+			"Jamstack"
+		],
+		"source": "https://www.gatsbyjs.com"
+	},
+	{
+		"id": "gsap",
+		"name": "GSAP",
+		"description": "GreenSock Animation Platform (GSAP) is a robust JavaScript library for creating high-performance animations that work in all major browsers. GSAP can animate CSS properties, SVG, canvas objects, React components, and more with great control and precision. It features a rich timeline system for sequencing animations and numerous plugins (like ScrollTrigger for scroll-based animations, Draggable, etc.). While GSAP’s core is free to use (even for commercial projects), some bonus plugins require a Club GreenSock membership. Developers often choose GSAP for its reliability and smooth, jank-free animations especially in complex interactive projects.",
+		"category": "Frontend",
+		"license": "Custom (GreenSock)",
+		"cost": "Free (Club plugins require paid license)",
+		"size": "0.12 MB",
+		"version": "3.11.5",
+		"stars": 15000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Animation",
+			"SVG",
+			"HTML5",
+			"Timeline"
+		],
+		"source": "https://greensock.com/gsap"
+	},
+	{
+		"id": "highcharts",
+		"name": "Highcharts",
+		"description": "Highcharts is a commercial JavaScript charting library that allows developers to create interactive charts for web applications. It supports a wide range of chart types (line, bar, pie, stock charts, maps, etc.) and features like tooltips, zooming, and exporting out-of-the-box. Highcharts is known for its polished look and cross-browser compatibility. While free for personal and non-commercial use, it requires a paid license for commercial projects. Its API is user-friendly, and it provides wrappers for frameworks like React, Angular, and Vue.",
+		"category": "Frontend",
+		"license": "Proprietary (Free for non-commercial)",
+		"cost": "$1720 (Commercial license)",
+		"size": "0.24 MB",
+		"version": "10.3.3",
+		"stars": 12000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Charts",
+			"Enterprise",
+			"DataViz"
+		],
+		"source": "https://www.highcharts.com"
+	},
+	{
+		"id": "highlightjs",
+		"name": "Highlight.js",
+		"description": "Highlight.js is a popular syntax highlighting library for code blocks in web pages. It automatically detects the programming language of a code snippet (or you can specify the language) and applies syntax highlighting by wrapping code in styled <span> tags. It supports over 180 languages and comes with dozens of color themes. Often used in documentation sites, blogs, and forums, Highlight.js allows for client-side highlighting without additional server-side processing. It is lightweight and can be configured to include only desired languages to reduce its footprint.",
+		"category": "Frontend",
+		"license": "BSD-3-Clause",
+		"cost": "Free",
+		"size": "0.05 MB",
+		"version": "11.7.0",
+		"stars": 21000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Syntax Highlighting",
+			"Code",
+			"Documentation",
+			"Client-side"
+		],
+		"source": "https://highlightjs.org"
+	},
+	{
+		"id": "jquery",
+		"name": "jQuery",
+		"description": "jQuery is a fast, small, and feature-rich JavaScript library that simplifies HTML document traversal, event handling, animation, and AJAX interactions. It became one of the most popular libraries for web development due to its ease of use and cross-browser compatibility abstractions. Although modern frameworks have reduced its prevalence, jQuery is still widely used in legacy systems and simple scripts, thanks to its concise API that dramatically simplifies DOM manipulation.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.30 MB",
+		"version": "3.6.4",
+		"stars": 59500,
+		"last_updated": "August 2022",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"DOM",
+			"AJAX",
+			"Legacy"
+		],
+		"source": "https://jquery.com"
+	},
+	{
+		"id": "jquery-ui",
+		"name": "jQuery UI",
+		"description": "jQuery UI is an official suite of user interface widgets, effects, and themes built on top of jQuery. It provides interactive components like draggable/droppable elements, sliders, datepickers, dialogs, tabs, and more, which can be styled via a theme framework. jQuery UI was instrumental in the era before modern frameworks, allowing developers to enrich web pages with ready-made UI elements without building from scratch. It remains relevant for legacy projects and simple applications that still use jQuery, though its active development has slowed as the web moved to newer frameworks.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.25 MB",
+		"version": "1.13.2",
+		"stars": 11300,
+		"last_updated": "2021",
+		"os": "Cross-platform",
+		"tags": [
+			"jQuery",
+			"Widgets",
+			"Themes",
+			"Legacy"
+		],
+		"source": "https://jqueryui.com"
+	},
+	{
+		"id": "kendoui",
+		"name": "Kendo UI",
+		"description": "Kendo UI is a commercial UI toolkit by Progress Telerik that offers a wide array of widgets and components for building modern web apps. It provides UI libraries for jQuery, Angular, React, and Vue, all adhering to a consistent theme and API design. Components include rich data grids, schedulers, charts, drop-downs, and many more, suitable for enterprise applications. Kendo UI components are known for extensive features (pagination, virtualization, editing, export, etc.) and professional support. It is a paid product, often chosen by companies that need ready-to-use, high-quality UI components to accelerate development.",
+		"category": "Frontend",
+		"license": "Proprietary",
+		"cost": "$999/developer",
+		"size": "10 MB",
+		"version": "2023.1.314",
+		"stars": 1000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"UI Components",
+			"Enterprise",
+			"jQuery",
+			"Angular"
+		],
+		"source": "https://www.telerik.com/kendo-ui"
+	},
+	{
+		"id": "leaflet",
+		"name": "Leaflet",
+		"description": "Leaflet is an open-source JavaScript library for mobile-friendly interactive maps. It allows developers to easily display tiled web maps (with providers like OpenStreetMap) and add map layers, markers, popups, and interactions. Leaflet is lightweight (~39KB gzipped) yet has most features needed for basic mapping and supports plugins for additional functionality (like drawing, heatmaps, clustering markers). It’s widely used for mapping needs in web projects due to its simplicity and performance, especially on mobile devices, without the need for heavy GIS frameworks.",
+		"category": "Frontend",
+		"license": "BSD-2-Clause",
+		"cost": "Free",
+		"size": "0.04 MB",
+		"version": "1.9.3",
+		"stars": 36000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Maps",
+			"Geospatial",
+			"OpenStreetMap",
+			"Markers"
+		],
+		"source": "https://leafletjs.com"
+	},
+	{
+		"id": "less",
+		"name": "Less",
+		"description": "Less is a CSS preprocessor inspired by Sass, which extends CSS with dynamic behavior such as variables, mixins, operations, and functions. Less can be run on the server side (with Node.js) or client side in the browser. It allows developers to write cleaner modular CSS and then compiles to standard CSS. Many concepts in Less (like nested rules or mixins) influenced later additions to native CSS (like custom properties). While Less was used in projects like Bootstrap 3, it has been somewhat overshadowed by Sass in recent years, but still remains in use in many codebases.",
+		"category": "Frontend",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "0.37 MB",
+		"version": "4.1.3",
+		"stars": 17000,
+		"last_updated": "2022",
+		"os": "Cross-platform",
+		"tags": [
+			"CSS Preprocessor",
+			"Stylesheet",
+			"Variables",
+			"Mixins"
+		],
+		"source": "https://lesscss.org"
+	},
+	{
+		"id": "lit",
+		"name": "Lit",
+		"description": "Lit (formerly LitElement/Polymer) is an open-source library from Google for building lightweight web components. Lit makes it easy to define custom HTML elements with encapsulated structure, style, and behavior by extending a base LitElement class. It uses tagged template literals for defining HTML templates and a reactive property system to efficiently update the DOM. Under the hood, Lit leverages the native Web Components APIs (Custom Elements and Shadow DOM) and focuses on being minimal and fast. It’s often used to create design systems or to embed reusable components in websites without large framework overhead.",
+		"category": "Frontend",
+		"license": "BSD-3-Clause",
+		"cost": "Free",
+		"size": "0.05 MB",
+		"version": "2.4.0",
+		"stars": 15000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Web Components",
+			"Custom Elements",
+			"Google",
+			"Polymer"
+		],
+		"source": "https://lit.dev"
+	},
+	{
+		"id": "lodash",
+		"name": "Lodash",
+		"description": "Lodash is a widely-used JavaScript utility library that provides dozens of helpful functions for tasks like manipulating arrays, objects, strings, and other data types. It offers convenient methods for cloning, merging, debouncing, throttling, and more, in a consistent cross-browser manner. Lodash was derived from Underscore.js but expanded with more features and better performance. It helps developers write cleaner code by abstracting common patterns, and its modular design allows importing only the needed functions to reduce bundle size.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.08 MB",
+		"version": "4.17.21",
+		"stars": 55000,
+		"last_updated": "February 2021",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Utility",
+			"Functional",
+			"Data"
+		],
+		"source": "https://lodash.com"
+	},
+	{
+		"id": "material-ui",
+		"name": "Material-UI (MUI)",
+		"description": "Material-UI is a popular React component library implementing Google’s Material Design guidelines. It provides a rich set of reusable UI components such as buttons, menus, sliders, and dialog windows that are styled consistently according to Material Design out-of-the-box. Developers can leverage MUI’s theming system to customize the appearance or adhere to brand guidelines. By using Material-UI, teams rapidly build aesthetically pleasing and accessible React applications with minimal CSS, thanks to pre-built components and styling solutions.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "4.5 MB",
+		"version": "5.11.0",
+		"stars": 88000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"React",
+			"UI Components",
+			"Material Design"
+		],
+		"source": "https://mui.com"
+	},
+	{
+		"id": "materialize",
+		"name": "Materialize",
+		"description": "Materialize is a modern responsive front-end framework based on Material Design, Google’s design language. It provides a set of components and CSS styles that implement Material Design out of the box, including cards, modals, typography, and colors. Materialize includes animations and interactions via JavaScript (built on jQuery) for components like carousels and collapsibles. It allows developers to quickly scaffold Material Design-compliant web interfaces without building styles from scratch, making it useful for prototyping and building aesthetically pleasing sites.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.50 MB",
+		"version": "1.0.0",
+		"stars": 39000,
+		"last_updated": "2018",
+		"os": "Cross-platform",
+		"tags": [
+			"CSS",
+			"Material Design",
+			"Responsive",
+			"Framework"
+		],
+		"source": "https://materializecss.com"
+	},
+	{
+		"id": "mathjax",
+		"name": "MathJax",
+		"description": "MathJax is a JavaScript library that displays mathematical notation in web browsers, using LaTeX, MathML, or AsciiMath notation. It typesets mathematics beautifully in HTML with CSS and, if needed, scalable vector graphics. MathJax is highly configurable and works across all modern browsers (and even older ones), ensuring consistent display of formulas. It is commonly used in educational and scientific web platforms (like Stack Exchange, Moodle, etc.), allowing authors to include complex equations that render correctly for readers without them needing any plugins.",
+		"category": "Frontend",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "2.7 MB",
+		"version": "3.2.2",
+		"stars": 9400,
+		"last_updated": "2022",
+		"os": "Cross-platform",
+		"tags": [
+			"Math",
+			"LaTeX",
+			"Typesetting",
+			"Education"
+		],
+		"source": "https://www.mathjax.org"
+	},
+	{
+		"id": "mithril",
+		"name": "Mithril",
+		"description": "Mithril is a modern client-side JavaScript framework for building Single Page Applications. It’s very small (around 8KB gzipped) yet provides routing and XHR utilities out of the box. Mithril uses a virtual DOM like React, and it emphasizes simplicity and speed. Its API is straightforward – components are simple JavaScript objects with a view function that returns virtual DOM (hyperscript or JSX). Mithril gained popularity for its fast performance and minimalistic approach, and has been used in production by companies like Vimeo and Nike for certain projects.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.008 MB",
+		"version": "2.3.1",
+		"stars": 14000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Framework",
+			"Lightweight",
+			"SPA"
+		],
+		"source": "https://mithril.js.org"
+	},
+	{
+		"id": "mobx",
+		"name": "MobX",
+		"description": "MobX is a simple yet powerful state management library for JavaScript applications that makes state observable. Instead of a single central store (like Redux), MobX allows multiple observable objects, and any changes to these observables automatically propagate to the parts of the application that use them (observers). This leads to a transparent reactivity model: the UI is always consistent with the current app state without explicit glue code. MobX is often used with React, enabling very terse and intuitive state management, especially for complex forms or data models.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.05 MB",
+		"version": "6.8.0",
+		"stars": 26000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"State Management",
+			"Reactive",
+			"Observable"
+		],
+		"source": "https://mobx.js.org"
+	},
+	{
+		"id": "monaco-editor",
+		"name": "Monaco Editor",
+		"description": "Monaco Editor is the code editor that powers Visual Studio Code, provided as a standalone library that can be embedded in web pages. It provides the same advanced features as VS Code’s editor: syntax highlighting for many languages, IntelliSense (auto-completion), theming, find/replace, and more. Monaco is built in TypeScript and is extremely extensible, allowing custom language definitions and behaviors. It’s used in many online coding environments (like VS Code for Web, StackBlitz, etc.) and is an excellent choice when a full-fledged code editing experience is needed in a browser-based application.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "5 MB",
+		"version": "0.38.0",
+		"stars": 33000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Code Editor",
+			"VSCode",
+			"IntelliSense",
+			"TypeScript"
+		],
+		"source": "https://microsoft.github.io/monaco-editor"
+	},
+	{
+		"id": "nextjs",
+		"name": "Next.js",
+		"description": "Next.js is a popular open-source React framework for building server-side rendered (SSR) and static web applications. Developed by Vercel, Next.js provides features like automatic code splitting, page-based routing, server-side rendering, and static site generation out of the box. It greatly simplifies building SEO-friendly and performant React applications by handling the underlying tooling (Webpack, Babel) and offering a robust developer experience with fast refresh and built-in API routes.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "2.5 MB",
+		"version": "13.2.4",
+		"stars": 105000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"React",
+			"SSR",
+			"Static",
+			"Framework"
+		],
+		"source": "https://nextjs.org"
+	},
+	{
+		"id": "nuxtjs",
+		"name": "Nuxt.js",
+		"description": "Nuxt.js is a high-level framework built on Vue.js that enables server-side rendering, static site generation, and other powerful features for Vue applications. Often called the “Vue equivalent of Next.js,” Nuxt provides a structured approach with file-based routing, middleware support, and automatic code splitting. It simplifies building performant, SEO-friendly Vue apps by handling configuration and offering conventions, and it can also export projects as static websites for deployment to CDN.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "2.1 MB",
+		"version": "3.0.0",
+		"stars": 47000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Vue",
+			"SSR",
+			"Static",
+			"Framework"
+		],
+		"source": "https://nuxtjs.org"
+	},
+	{
+		"id": "openlayers",
+		"name": "OpenLayers",
+		"description": "OpenLayers is a high-performance, open-source JavaScript library for displaying maps and geospatial data in web browsers. It supports a variety of map sources (OSM, Bing, custom tile servers), vector data formats (GeoJSON, KML, etc.), and advanced features like vector editing, clustering, and reprojection of coordinates. OpenLayers is very powerful and often used in GIS applications, offering fine-grained control over the map and layers. It is framework-agnostic and can be integrated with vanilla JS or any front-end framework.",
+		"category": "Frontend",
+		"license": "BSD-2-Clause",
+		"cost": "Free",
+		"size": "1.1 MB",
+		"version": "7.2.2",
+		"stars": 11000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Maps",
+			"GIS",
+			"WebGL",
+			"Geospatial"
+		],
+		"source": "https://openlayers.org"
+	},
+	{
+		"id": "parcel",
+		"name": "Parcel",
+		"description": "Parcel is a zero-configuration web application bundler that aims to simplify the build process. It automatically handles bundling of JS, CSS, HTML, and assets with no or minimal setup, making it very beginner-friendly. Parcel has out-of-the-box support for many features: it transpiles modern JS, supports React/TypeScript, and even has a development server with hot module replacement. It parallelizes work for fast builds and uses caching for subsequent builds. Developers choose Parcel for small to medium projects or prototypes where ease of setup and speed are top priorities.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "2.9 MB",
+		"version": "2.8.3",
+		"stars": 42000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Build Tool",
+			"Bundler",
+			"Zero-config",
+			"JavaScript"
+		],
+		"source": "https://parceljs.org"
+	},
+	{
+		"id": "pixijs",
+		"name": "PixiJS",
+		"description": "PixiJS is a fast, lightweight 2D rendering library for creating rich, interactive graphics and cross-platform applications. Using WebGL under the hood (with canvas fallback), PixiJS is optimized for high-performance rendering of sprites, textures, and text. It’s often used for making 2D games, interactive web experiences, and other graphics-intensive applications that require a step above standard DOM manipulation. PixiJS provides an accessible API for scene management, animation, and interaction, making HTML5 canvas/WebGL development much easier.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.44 MB",
+		"version": "7.2.4",
+		"stars": 38000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Canvas",
+			"WebGL",
+			"2D"
+		],
+		"source": "https://pixijs.com"
+	},
+	{
+		"id": "preact",
+		"name": "Preact",
+		"description": "Preact is a fast, lightweight alternative to React, weighing in at only a few kilobytes. It has the same ES6 API and utility as React (stateful components, lifecycle methods, etc.) but with a much smaller footprint and slightly different internal implementation. Preact achieves its size by focusing on the core essentials of React’s API. It can be used as a drop-in replacement for React in many cases, especially when file size is a concern (like on mobile web). Preact’s compatibility layer, preact/compat, even allows many React libraries to work seamlessly with it.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.03 MB",
+		"version": "10.13.1",
+		"stars": 34000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"React-like",
+			"UI",
+			"Lightweight"
+		],
+		"source": "https://preactjs.com"
+	},
+	{
+		"id": "react",
+		"name": "React",
+		"description": "React is a popular open-source JavaScript library for building dynamic user interfaces. Maintained by Meta (Facebook) and a broad community, it introduced a component-based architecture and a virtual DOM for efficient rendering. It’s widely used for developing single-page applications and can also render on the server or power mobile apps via React Native.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.17 MB",
+		"version": "19.1.0",
+		"stars": 235000,
+		"last_updated": "March 2025",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"UI",
+			"Library",
+			"Web"
+		],
+		"source": "https://react.dev"
+	},
+	{
+		"id": "redux",
+		"name": "Redux",
+		"description": "Redux is a predictable state container for JavaScript applications, commonly used with React (though it can integrate with other frameworks or vanilla JS). It implements a unidirectional data flow and centralizes the application’s state in a single store, which can only be modified by dispatching actions that are handled by pure reducer functions. This predictable pattern makes state changes traceable and easier to debug. Redux’s strict architecture offers great developer tools (like time-travel debugging) and is highly valued in complex applications where many components share state.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.02 MB",
+		"version": "4.2.1",
+		"stars": 58000,
+		"last_updated": "2022",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"State Management",
+			"Flux",
+			"React"
+		],
+		"source": "https://redux.js.org"
+	},
+	{
+		"id": "revealjs",
+		"name": "Reveal.js",
+		"description": "Reveal.js is an open-source framework for creating interactive, touch-friendly slide presentations using HTML, CSS, and JavaScript. It allows you to write slides in HTML (with Markdown support) and comes with a variety of transition effects, slide backgrounds, and features like speaker notes and PDF export. Slides can navigate both horizontally and vertically, and it supports embedded media, code syntax highlighting, and even interactive fragments within slides. Reveal.js enables web developers to create presentation decks directly in a browser, which can be hosted and viewed anywhere without specialized software like PowerPoint.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.11 MB",
+		"version": "4.4.0",
+		"stars": 62000,
+		"last_updated": "2022",
+		"os": "Cross-platform",
+		"tags": [
+			"Presentation",
+			"Slides",
+			"HTML",
+			"CSS3D"
+		],
+		"source": "https://revealjs.com"
+	},
+	{
+		"id": "rollup",
+		"name": "Rollup",
+		"description": "Rollup is a module bundler for JavaScript, particularly well-suited for bundling libraries and applications that use ES6 modules. It emphasizes the concept of tree-shaking, which automatically removes unused code, resulting in smaller bundles. Rollup outputs code that is often cleaner and more readable by leveraging ES module syntax. It’s commonly used to build libraries (including many frameworks themselves use Rollup to distribute ESM and UMD builds) because it can produce both modern and legacy module formats. Rollup is plugin-extensible and can be configured for a variety of use cases, though it generally requires a bit more setup than tools like Parcel.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.21 MB",
+		"version": "3.20.5",
+		"stars": 23000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Bundler",
+			"ESM",
+			"Tree-shaking",
+			"JavaScript"
+		],
+		"source": "https://rollupjs.org"
+	},
+	{
+		"id": "rxjs",
+		"name": "RxJS",
+		"description": "RxJS (Reactive Extensions for JavaScript) is a library for reactive programming using Observables, which makes it easier to compose asynchronous or callback-based code. It provides a wide variety of operators to transform, combine, filter, and manipulate streams of events or data. RxJS is a core part of the Angular framework (as Angular’s HTTP and many other APIs return Observables) but can be used independently in any JS application. It’s powerful for managing complex async flows like UI events, server requests, timers, and more in a declarative way.",
+		"category": "Frontend",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "0.33 MB",
+		"version": "7.8.0",
+		"stars": 28000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"ReactiveX",
+			"Observables",
+			"Async"
+		],
+		"source": "https://rxjs.dev"
+	},
+	{
+		"id": "sass",
+		"name": "Sass",
+		"description": "Sass (Syntactically Awesome Stylesheets) is a very mature, stable CSS preprocessor that adds powerful features to CSS such as variables, nested rules, mixins, functions, and inheritance. It helps keep large stylesheets well-organized and allows for easier maintenance of complex CSS. Sass code is compiled into standard CSS that browsers can understand. It has two syntax flavors (the older indented syntax .sass and the newer SCSS syntax which is a superset of CSS). Sass has become a standard tool in web development to produce manageable and DRY (Don’t Repeat Yourself) CSS.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "5 MB",
+		"version": "1.62.0",
+		"stars": 14500,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"CSS Preprocessor",
+			"SCSS",
+			"Stylesheets",
+			"Compiler"
+		],
+		"source": "https://sass-lang.com"
+	},
+	{
+		"id": "select2",
+		"name": "Select2",
+		"description": "Select2 is a jQuery-based replacement for HTML select dropdowns, offering search capability, multi-select, and AJAX loading of options. It turns simple <select> elements into feature-rich components that can handle tagging (user-created options), remote data sources, infinite scrolling of results, and theming (including Bootstrap integration). Select2 is highly configurable (placeholders, disabling, templating of results, etc.) and is widely used in forms where a better user experience for long or multiple selection lists is needed beyond the native HTML capabilities.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.09 MB",
+		"version": "4.0.13",
+		"stars": 25000,
+		"last_updated": "2022",
+		"os": "Cross-platform",
+		"tags": [
+			"jQuery",
+			"Dropdown",
+			"Autocomplete",
+			"Plugin"
+		],
+		"source": "https://select2.org"
+	},
+	{
+		"id": "semantic-ui",
+		"name": "Semantic UI",
+		"description": "Semantic UI is a development framework that helps create beautiful, responsive layouts using human-friendly HTML. It comes with a theming system and a rich collection of components like buttons, dropdowns, form elements, and more, all styled with a semantic class naming system that reads like English. Semantic UI’s philosophy is to make the code self-documenting (e.g., a button’s classes might be “ui blue large button”). It allows for extensive customization through themes and has integrations for React, Angular, and Meteor as well.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "1.1 MB",
+		"version": "2.4.2",
+		"stars": 50000,
+		"last_updated": "2018",
+		"os": "Cross-platform",
+		"tags": [
+			"CSS",
+			"UI Framework",
+			"Responsive",
+			"Components"
+		],
+		"source": "https://semantic-ui.com"
+	},
+	{
+		"id": "storybook",
+		"name": "Storybook",
+		"description": "Storybook is an open-source tool for developing and documenting UI components in isolation. It provides a development environment where developers can browse a library of visual components (React, Vue, Angular, etc.), and see different states of each component (“stories”) without running the entire app. Storybook aids in UI development, testing, and documentation by allowing for interactive experimentation with components. It supports add-ons for accessibility checks, visual testing, and documentation generation, making it a key tool in design systems and component-driven development.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "21 MB",
+		"version": "7.0.3",
+		"stars": 79000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"UI",
+			"Components",
+			"Documentation",
+			"React"
+		],
+		"source": "https://storybook.js.org"
+	},
+	{
+		"id": "svelte",
+		"name": "Svelte",
+		"description": "Svelte is an open-source front-end JavaScript framework (or compiler) that builds user interfaces in a fundamentally new way. Instead of running in the browser as a library, Svelte compiles your components at build time, resulting in minimal and highly efficient JavaScript. This approach eliminates the need for a virtual DOM and leads to fast performance and smaller bundle sizes. Svelte is praised for its simplicity and reactivity using plain JavaScript and has been used to create lightweight, reactive web applications.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "1.6 MB",
+		"version": "4.0.0",
+		"stars": 67000,
+		"last_updated": "July 2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Compiler",
+			"Reactive",
+			"Web"
+		],
+		"source": "https://svelte.dev"
+	},
+	{
+		"id": "tailwindcss",
+		"name": "Tailwind CSS",
+		"description": "Tailwind CSS is a modern utility-first CSS framework that provides low-level utility classes for customizing every aspect of a design. Rather than offering pre-designed components, Tailwind gives developers granular control by composing classes directly in HTML, which leads to highly customizable designs without leaving the markup. It includes a configurable design system (colors, spacing, typography, etc.) and optimizes output by purging unused styles. Tailwind has gained popularity for its flexibility and ability to rapidly build custom designs without writing traditional CSS.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "1.2 MB",
+		"version": "3.3.0",
+		"stars": 66000,
+		"last_updated": "March 2024",
+		"os": "Cross-platform",
+		"tags": [
+			"CSS",
+			"Utility-first",
+			"Responsive",
+			"Design"
+		],
+		"source": "https://tailwindcss.com"
+	},
+	{
+		"id": "threejs",
+		"name": "Three.js",
+		"description": "Three.js is a cross-browser JavaScript library and API for creating and displaying 3D graphics in the browser using WebGL. It simplifies the complexities of WebGL by providing an easy-to-use layer for defining scenes, cameras, lights, materials, and 3D objects. Developers can create rich 3D animations, interactive models, and even simple games that run in a browser without plugins. Three.js has a large community with numerous examples and integrations (like with VR/AR), making it the de facto choice for web-based 3D content.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.50 MB",
+		"version": "0.153.0",
+		"stars": 90000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"3D",
+			"WebGL",
+			"Graphics"
+		],
+		"source": "https://threejs.org"
+	},
+	{
+		"id": "velocityjs",
+		"name": "Velocity.js",
+		"description": "Velocity.js is an animation engine that re-implements jQuery’s $.animate() for speed and also extends it with features like color animations, transforms, loops, and easings. It bypasses jQuery’s slower animation stack by directly manipulating DOM elements, achieving high performance. Velocity can be used with or without jQuery and is a convenient way to animate UI elements with more control than CSS transitions provide. It also supports scrolling animations and reverse animations. For a time, Velocity was a popular choice for complex single-page app animations before widespread adoption of CSS and other libraries.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.03 MB",
+		"version": "2.0.6",
+		"stars": 17000,
+		"last_updated": "2020",
+		"os": "Cross-platform",
+		"tags": [
+			"Animation",
+			"jQuery-plugin",
+			"UI",
+			"Tweening"
+		],
+		"source": "http://velocityjs.org"
+	},
+	{
+		"id": "vite",
+		"name": "Vite",
+		"description": "Vite is a next-generation front-end build tool developed by the creator of Vue.js. It emphasizes speed, using native ES modules in development (leveraging browser support) and bundling the code with Rollup for production. Vite provides a dev server that starts up almost instantly and offers HMR (Hot Module Replacement) that is extremely fast, regardless of application size. It supports Vue, React, and other frameworks via plugins, and it requires minimal configuration to get started. Vite is becoming popular as a lighter, faster alternative to heavy bundlers like Webpack for modern web projects.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.15 MB",
+		"version": "4.2.0",
+		"stars": 60000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Build Tool",
+			"Dev Server",
+			"ESM",
+			"Fast"
+		],
+		"source": "https://vitejs.dev"
+	},
+	{
+		"id": "vuejs",
+		"name": "Vue.js",
+		"description": "Vue.js is an open-source progressive JavaScript framework for building user interfaces and single-page applications. Created by Evan You, Vue is lightweight and adopts a reactive data-binding approach and component-based architecture, making it approachable yet versatile. It can be incrementally adopted: from enhancing simple pages to powering sophisticated SPA front-ends, and it boasts an active community and ecosystem of supporting libraries.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "2.8 MB",
+		"version": "3.3.4",
+		"stars": 203000,
+		"last_updated": "May 2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Framework",
+			"Reactive",
+			"Web"
+		],
+		"source": "https://vuejs.org"
+	},
+	{
+		"id": "webpack",
+		"name": "Webpack",
+		"description": "Webpack is a powerful module bundler for JavaScript applications. It takes modules with dependencies (scripts, styles, images, etc.) and bundles them into optimized assets for deployment. Webpack introduced the concept of “loaders” to preprocess files (like bundling CSS, transpiling TypeScript/JSX) and “plugins” to extend its capabilities (such as optimizing output, injecting environment variables, etc.). It supports code splitting, which allows lazy-loading parts of the application. As a core tool in modern frontend development, Webpack ensures that projects of all sizes can be efficiently built and loaded in the browser.",
+		"category": "Frontend",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "1.1 MB",
+		"version": "5.76.0",
+		"stars": 62000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Build Tool",
+			"Module Bundler",
+			"JavaScript",
+			"Optimization"
+		],
+		"source": "https://webpack.js.org"
+	}
+]

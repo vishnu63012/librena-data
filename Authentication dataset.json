@@ -1,0 +1,1761 @@
+[
+	{
+		"id": "argon2",
+		"name": "Argon2",
+		"description": "Argon2 is a modern password-hashing function, winner of the Password Hashing Competition (PHC). Designed to resist GPU cracking and side-channel attacks, it's ideal for secure web authentication systems.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "0.09 MB",
+		"version": "0.30.1",
+		"stars": 3800,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Password Hashing",
+			"Security",
+			"Argon2",
+			"Encryption"
+		],
+		"source": "https://github.com/P-H-C/phc-winner-argon2"
+	},
+	{
+		"id": "auth0",
+		"name": "Auth0",
+		"description": "Auth0 is a cloud-based identity-as-a-service platform that provides authentication and authorization as a service. It supports social logins, enterprise identity providers, and multi-factor authentication. With robust SDKs and documentation, Auth0 is widely used in enterprise-grade web applications.",
+		"category": "Authentication",
+		"license": "Commercial",
+		"cost": "Freemium / $23+ per user",
+		"size": "N/A (Cloud service)",
+		"version": "2025 Edition",
+		"stars": 14000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth",
+			"SSO",
+			"MFA",
+			"Identity Provider"
+		],
+		"source": "https://auth0.com"
+	},
+	{
+		"id": "authboss",
+		"name": "Authboss",
+		"description": "Authboss is a modular authentication system for Go web applications. It provides built-in support for registration, login, password resets, two-factor authentication, and more.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.5 MB",
+		"version": "3.3.3",
+		"stars": 3600,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Go",
+			"2FA",
+			"Password Reset",
+			"Security"
+		],
+		"source": "https://github.com/volatiletech/authboss"
+	},
+	{
+		"id": "authboss",
+		"name": "Authboss",
+		"description": "Authboss is a modular authentication system for Golang web applications. It supports sessions, OAuth2, password resets, and more via plug-and-play modules.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.6 MB",
+		"version": "3.4.0",
+		"stars": 3300,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Go",
+			"OAuth2",
+			"Modular",
+			"Auth"
+		],
+		"source": "https://github.com/volatiletech/authboss"
+	},
+	{
+		"id": "authelia",
+		"name": "Authelia",
+		"description": "Authelia is an open-source authentication and authorization server for securing web applications with 2FA, LDAP integration, and SSO capabilities. It's designed for use as a reverse proxy companion.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "N/A (Docker container)",
+		"version": "4.38.6",
+		"stars": 18000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"2FA",
+			"Reverse Proxy",
+			"SSO",
+			"Security"
+		],
+		"source": "https://www.authelia.com"
+	},
+	{
+		"id": "authentik",
+		"name": "Authentik",
+		"description": "Authentik is an open-source Identity Provider (IdP) focused on flexibility and privacy. It supports SSO, LDAP, OAuth2, SAML, and SCIM with a modern admin UI and integration with apps like GitLab and Grafana.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "N/A (Docker-based)",
+		"version": "2025.2.1",
+		"stars": 6000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"SSO",
+			"SAML",
+			"OIDC",
+			"Identity Provider"
+		],
+		"source": "https://goauthentik.io"
+	},
+	{
+		"id": "authlogic",
+		"name": "Authlogic",
+		"description": "Authlogic is a clean, simple authentication solution for Rails apps. Unlike Devise, it does not rely on generators or heavy DSLs, making it lightweight and customizable.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.09 MB",
+		"version": "6.4.0",
+		"stars": 3600,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Rails",
+			"Ruby",
+			"Sessions",
+			"Password Auth"
+		],
+		"source": "https://github.com/binarylogic/authlogic"
+	},
+	{
+		"id": "authmagic",
+		"name": "AuthMagic",
+		"description": "AuthMagic is a modern authentication UI SDK that supports passwordless login, email magic links, and OTP flows. It simplifies frontend integration with identity providers and custom backends.",
+		"category": "Authentication",
+		"license": "Commercial",
+		"cost": "Free / Paid",
+		"size": "N/A (SDK)",
+		"version": "1.4.0",
+		"stars": 700,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Magic Link",
+			"OTP",
+			"Frontend",
+			"Passwordless"
+		],
+		"source": "https://authmagic.io"
+	},
+	{
+		"id": "bcrypt",
+		"name": "bcrypt",
+		"description": "bcrypt is a password hashing library used across many platforms for securely storing passwords. It offers a robust hashing algorithm resistant to brute-force attacks and is a de facto standard in secure password management.",
+		"category": "Authentication",
+		"license": "ISC",
+		"cost": "Free",
+		"size": "0.08 MB",
+		"version": "5.1.1",
+		"stars": 12000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Hashing",
+			"Security",
+			"Passwords",
+			"Node.js"
+		],
+		"source": "https://github.com/kelektiv/node.bcrypt.js"
+	},
+	{
+		"id": "cas",
+		"name": "Apereo CAS",
+		"description": "CAS (Central Authentication Service) is a single sign-on protocol and platform maintained by Apereo. It provides enterprise-level SSO, MFA, and integration with LDAP, SAML, and OIDC.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "N/A (Server)",
+		"version": "7.0.3",
+		"stars": 1800,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"SSO",
+			"SAML",
+			"LDAP",
+			"OIDC"
+		],
+		"source": "https://apereo.github.io/cas/"
+	},
+	{
+		"id": "cookie-session",
+		"name": "cookie-session",
+		"description": "cookie-session is Express/Koa middleware that stores session data on the client within a cookie. It's useful for lightweight, stateless applications that don’t require server-side session storage.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.04 MB",
+		"version": "2.0.0",
+		"stars": 2100,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Sessions",
+			"Cookies",
+			"Express",
+			"Koa"
+		],
+		"source": "https://github.com/expressjs/cookie-session"
+	},
+	{
+		"id": "devise",
+		"name": "Devise",
+		"description": "Devise is a flexible authentication solution for Rails applications. It is built on top of Warden and offers features like database authentication, Omniauth integration, password recovery, and session management with minimal configuration.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.35 MB",
+		"version": "4.9.1",
+		"stars": 23000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Ruby",
+			"Rails",
+			"OAuth",
+			"SSO"
+		],
+		"source": "https://github.com/heartcombo/devise"
+	},
+	{
+		"id": "devise-jwt",
+		"name": "Devise JWT",
+		"description": "An extension for Devise that enables JSON Web Token authentication in Rails apps. It provides token dispatching, revocation strategies, and secure access handling with minimal setup.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.1 MB",
+		"version": "0.10.0",
+		"stars": 1200,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Ruby",
+			"Rails",
+			"JWT",
+			"Devise"
+		],
+		"source": "https://github.com/waiting-for-dev/devise-jwt"
+	},
+	{
+		"id": "dex",
+		"name": "Dex",
+		"description": "Dex is an OpenID Connect (OIDC) identity provider that acts as a middleman between your app and external identity providers like GitHub, Google, and LDAP. Often used with Kubernetes authentication.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "N/A (Server)",
+		"version": "2.37.0",
+		"stars": 8500,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"OIDC",
+			"SSO",
+			"LDAP",
+			"Kubernetes"
+		],
+		"source": "https://github.com/dexidp/dex"
+	},
+	{
+		"id": "django-allauth",
+		"name": "Django Allauth",
+		"description": "Django Allauth is an integrated set of Django applications addressing authentication, registration, account management, and third-party (social) account authentication. It supports OAuth, OpenID, and email verification out of the box.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.6 MB",
+		"version": "0.57.0",
+		"stars": 8500,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Django",
+			"OAuth",
+			"OpenID",
+			"SSO"
+		],
+		"source": "https://github.com/pennersr/django-allauth"
+	},
+	{
+		"id": "django-oauth-toolkit",
+		"name": "Django OAuth Toolkit",
+		"description": "Provides OAuth2 capabilities for Django REST Framework APIs. Enables secure token-based authentication and supports scopes, token expiration, and custom grants.",
+		"category": "Authentication",
+		"license": "BSD-3-Clause",
+		"cost": "Free",
+		"size": "0.18 MB",
+		"version": "2.2.0",
+		"stars": 3300,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth2",
+			"Django",
+			"Python",
+			"API"
+		],
+		"source": "https://github.com/jazzband/django-oauth-toolkit"
+	},
+	{
+		"id": "django-rest-auth",
+		"name": "Django REST Auth",
+		"description": "Django REST Auth provides a set of REST API endpoints for user registration, login/logout, password reset, and social authentication in Django projects using Django REST Framework.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.33 MB",
+		"version": "0.9.5",
+		"stars": 2600,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Django",
+			"REST",
+			"OAuth",
+			"Token Auth"
+		],
+		"source": "https://github.com/Tivix/django-rest-auth"
+	},
+	{
+		"id": "doorkeeper",
+		"name": "Doorkeeper",
+		"description": "Doorkeeper is an OAuth2 provider for Rails. It helps you implement secure token-based APIs by enabling OAuth2 authorization flows and integrates easily with Devise or custom user models.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.4 MB",
+		"version": "5.6.4",
+		"stars": 5300,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth2",
+			"Rails",
+			"Ruby",
+			"API"
+		],
+		"source": "https://github.com/doorkeeper-gem/doorkeeper"
+	},
+	{
+		"id": "express-basic-auth",
+		"name": "express-basic-auth",
+		"description": "A small Express.js middleware for implementing basic HTTP authentication. Useful for securing simple APIs or internal tools without needing OAuth or JWT complexity.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.03 MB",
+		"version": "1.2.0",
+		"stars": 1500,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Express",
+			"Basic Auth",
+			"Middleware",
+			"Node.js"
+		],
+		"source": "https://github.com/LionC/express-basic-auth"
+	},
+	{
+		"id": "express-jwt",
+		"name": "express-jwt",
+		"description": "express-jwt is middleware for validating JWTs in Express applications. It ensures requests are authenticated via JSON Web Tokens and can be configured with different secrets and algorithms.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.06 MB",
+		"version": "8.4.1",
+		"stars": 6700,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Node.js",
+			"JWT",
+			"Express",
+			"Middleware"
+		],
+		"source": "https://github.com/auth0/express-jwt"
+	},
+	{
+		"id": "express-jwt",
+		"name": "express-jwt",
+		"description": "express-jwt is an Express middleware for validating JWTs. Often used to protect RESTful routes in Node.js applications with simple token-based authentication.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.04 MB",
+		"version": "8.4.0",
+		"stars": 4200,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Express",
+			"JWT",
+			"Token",
+			"Auth"
+		],
+		"source": "https://github.com/auth0/express-jwt"
+	},
+	{
+		"id": "express-oauth-server",
+		"name": "express-oauth-server",
+		"description": "express-oauth-server is an Express wrapper for the Node.js OAuth2-server module. It allows you to implement your own OAuth2 authorization server for APIs, with support for all major grant types.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.13 MB",
+		"version": "3.0.1",
+		"stars": 1100,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth2",
+			"Express",
+			"Node.js",
+			"API Auth"
+		],
+		"source": "https://github.com/oauthjs/express-oauth-server"
+	},
+	{
+		"id": "express-session",
+		"name": "express-session",
+		"description": "express-session is middleware for managing user sessions in Express-based Node.js applications. It stores session data on the server and provides secure cookie-based identifiers for clients.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.07 MB",
+		"version": "1.17.3",
+		"stars": 7300,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Sessions",
+			"Cookies",
+			"Express",
+			"Authentication"
+		],
+		"source": "https://github.com/expressjs/session"
+	},
+	{
+		"id": "fastapi-users",
+		"name": "FastAPI Users",
+		"description": "FastAPI Users is a user management and authentication system for FastAPI. It supports JWT, OAuth, and database adapters for MongoDB, SQLAlchemy, etc.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.25 MB",
+		"version": "12.1.0",
+		"stars": 6700,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"FastAPI",
+			"OAuth",
+			"JWT",
+			"Python"
+		],
+		"source": "https://github.com/fastapi-users/fastapi-users"
+	},
+	{
+		"id": "firebase-auth",
+		"name": "Firebase Authentication",
+		"description": "Firebase Authentication offers backend services and SDKs to authenticate users via password, phone number, and popular identity providers like Google, Facebook, and Apple. It simplifies building secure sign-in flows and integrates well with other Firebase services.",
+		"category": "Authentication",
+		"license": "Free Tier / Pay-as-you-go",
+		"cost": "Free / Pay-as-you-go",
+		"size": "N/A (Cloud service)",
+		"version": "2025 SDK",
+		"stars": 18000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Firebase",
+			"OAuth",
+			"MFA",
+			"SSO"
+		],
+		"source": "https://firebase.google.com/products/auth"
+	},
+	{
+		"id": "firebaseui-web",
+		"name": "FirebaseUI Web",
+		"description": "FirebaseUI is a drop-in authentication UI for Firebase Auth. It supports email/password login, phone authentication, and social providers with a prebuilt, customizable UI that reduces the need for building login screens from scratch.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "0.7 MB",
+		"version": "9.2.0",
+		"stars": 5000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Firebase",
+			"UI",
+			"Login",
+			"OAuth"
+		],
+		"source": "https://github.com/firebase/firebaseui-web"
+	},
+	{
+		"id": "flask-jwt-extended",
+		"name": "Flask-JWT-Extended",
+		"description": "Flask-JWT-Extended is a Flask extension for working with JSON Web Tokens. It supports access/refresh tokens, blacklisting, and role-based access control for Python APIs.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.08 MB",
+		"version": "4.5.3",
+		"stars": 2100,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Flask",
+			"JWT",
+			"Python",
+			"API Security"
+		],
+		"source": "https://github.com/mtthwhggns/flask-jwt-extended"
+	},
+	{
+		"id": "flask-login",
+		"name": "Flask-Login",
+		"description": "Flask-Login provides user session management for Flask. It handles login/logout, session persistence, and user access control for Python-based web applications.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.05 MB",
+		"version": "0.6.3",
+		"stars": 5700,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Flask",
+			"Python",
+			"Sessions",
+			"Login"
+		],
+		"source": "https://github.com/maxcountryman/flask-login"
+	},
+	{
+		"id": "flask-praetorian",
+		"name": "Flask-Praetorian",
+		"description": "Flask-Praetorian is a security framework for Flask that simplifies user authentication with JWTs. It supports password hashing, role-based access control, and token refreshing.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.09 MB",
+		"version": "2.1.0",
+		"stars": 950,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Flask",
+			"JWT",
+			"Python",
+			"RBAC"
+		],
+		"source": "https://github.com/dusktreader/flask-praetorian"
+	},
+	{
+		"id": "fusionauth",
+		"name": "FusionAuth",
+		"description": "FusionAuth is a modern identity management platform that provides login, registration, SSO, MFA, and JWT-based authentication for web and mobile apps. It can be self-hosted or used in the cloud and integrates with any language or framework.",
+		"category": "Authentication",
+		"license": "Apache-2.0 / Commercial",
+		"cost": "Free / Paid",
+		"size": "N/A (Server)",
+		"version": "1.50.0",
+		"stars": 1800,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"JWT",
+			"SSO",
+			"MFA",
+			"CIAM"
+		],
+		"source": "https://fusionauth.io"
+	},
+	{
+		"id": "gluu",
+		"name": "Gluu Server",
+		"description": "Gluu Server is a full-featured identity and access management platform supporting OAuth2, OpenID Connect, and SAML. It includes MFA, SCIM, UMA, and robust directory integration for enterprise environments.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free / Enterprise Support",
+		"size": "N/A (Server)",
+		"version": "5.1.0",
+		"stars": 1800,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"SAML",
+			"OIDC",
+			"OAuth2",
+			"MFA"
+		],
+		"source": "https://gluu.org"
+	},
+	{
+		"id": "go-oauth2",
+		"name": "Go OAuth2 Server",
+		"description": "A robust OAuth 2.0 server library for the Go language. It offers modular storage, JWT access tokens, and support for all grant types including refresh tokens.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.2 MB",
+		"version": "4.1.0",
+		"stars": 3600,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Go",
+			"OAuth2",
+			"JWT",
+			"Access Tokens"
+		],
+		"source": "https://github.com/go-oauth2/oauth2"
+	},
+	{
+		"id": "goth",
+		"name": "Goth",
+		"description": "Goth is a Go library for handling multiple OAuth and OAuth2 providers (e.g., Google, GitHub, Facebook) with a unified interface. It simplifies the addition of social login to Go web apps.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.4 MB",
+		"version": "1.72.0",
+		"stars": 4300,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Go",
+			"OAuth",
+			"Social Login",
+			"Web Auth"
+		],
+		"source": "https://github.com/markbates/goth"
+	},
+	{
+		"id": "grant",
+		"name": "Grant",
+		"description": "Grant is a middleware for Express, Koa, and Hapi that supports OAuth1, OAuth2, and OpenID Connect for 200+ providers. It's ideal for enabling social login flows with minimal configuration.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.11 MB",
+		"version": "6.3.1",
+		"stars": 3900,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth",
+			"OpenID",
+			"Node.js",
+			"Middleware"
+		],
+		"source": "https://github.com/simov/grant"
+	},
+	{
+		"id": "hapi-auth-jwt2",
+		"name": "hapi-auth-jwt2",
+		"description": "A JWT authentication plugin for the Hapi.js framework. It allows secure route protection using tokens, with support for token validation functions and access scopes.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.04 MB",
+		"version": "11.4.0",
+		"stars": 820,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Hapi",
+			"JWT",
+			"Node.js",
+			"API Security"
+		],
+		"source": "https://github.com/dwyl/hapi-auth-jwt2"
+	},
+	{
+		"id": "identityserver",
+		"name": "IdentityServer",
+		"description": "IdentityServer is a popular open-source OpenID Connect and OAuth2 framework for ASP.NET Core. It provides federated identity, SSO, and API protection.",
+		"category": "Authentication",
+		"license": "Dual (FOSS / Commercial)",
+		"cost": "Free / Paid",
+		"size": "N/A",
+		"version": "6.1.0",
+		"stars": 8500,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"ASP.NET",
+			"OIDC",
+			"OAuth2",
+			"API Security"
+		],
+		"source": "https://identityserver.io"
+	},
+	{
+		"id": "jsonwebtoken",
+		"name": "jsonwebtoken",
+		"description": "jsonwebtoken is a minimalistic implementation for signing and verifying JSON Web Tokens (JWT) in Node.js. It's a popular choice for implementing stateless authentication and securing APIs.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.1 MB",
+		"version": "9.0.2",
+		"stars": 18000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"JWT",
+			"API Security",
+			"Token",
+			"Node.js"
+		],
+		"source": "https://github.com/auth0/node-jsonwebtoken"
+	},
+	{
+		"id": "jsonwebtoken-java",
+		"name": "java-jwt",
+		"description": "java-jwt is a Java implementation for creating and verifying JSON Web Tokens. Developed by Auth0, it enables secure token-based authentication in Java web applications and REST APIs.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.21 MB",
+		"version": "4.4.0",
+		"stars": 3300,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"JWT",
+			"Java",
+			"Security",
+			"Auth0"
+		],
+		"source": "https://github.com/auth0/java-jwt"
+	},
+	{
+		"id": "jsonwebtoken-python",
+		"name": "PyJWT",
+		"description": "PyJWT is a Python library that allows you to encode and decode JSON Web Tokens easily. It supports HS256, RS256, and other JWT algorithms for token validation in APIs and web apps.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.09 MB",
+		"version": "2.8.0",
+		"stars": 4500,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"JWT",
+			"Token",
+			"Python",
+			"API Auth"
+		],
+		"source": "https://github.com/jpadilla/pyjwt"
+	},
+	{
+		"id": "jwt-auth",
+		"name": "JWT Auth for Laravel",
+		"description": "JWT Auth is a Laravel package that provides stateless authentication using JSON Web Tokens. Useful for APIs that require secure token-based auth.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.15 MB",
+		"version": "2.0.0",
+		"stars": 5500,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Laravel",
+			"JWT",
+			"API",
+			"PHP"
+		],
+		"source": "https://github.com/tymondesigns/jwt-auth"
+	},
+	{
+		"id": "keycloak",
+		"name": "Keycloak",
+		"description": "Keycloak is an open-source identity and access management solution. It supports SSO, LDAP, social login, user federation, and role-based access control. It provides admin UI and REST APIs for managing user authentication.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "N/A (Server)",
+		"version": "24.0.1",
+		"stars": 18000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"SSO",
+			"RBAC",
+			"OIDC",
+			"OAuth2"
+		],
+		"source": "https://www.keycloak.org"
+	},
+	{
+		"id": "keycloak-gatekeeper",
+		"name": "Keycloak Gatekeeper",
+		"description": "Keycloak Gatekeeper (now deprecated in favor of Keycloak Proxy) is a reverse proxy that provides authentication and authorization for applications using Keycloak as an identity provider.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "N/A (Binary)",
+		"version": "10.0.0",
+		"stars": 2000,
+		"last_updated": "2021",
+		"os": "Cross-platform",
+		"tags": [
+			"Keycloak",
+			"SSO",
+			"Reverse Proxy",
+			"OAuth2"
+		],
+		"source": "https://www.keycloak.org/docs/latest/securing_apps/#_keycloak_proxy"
+	},
+	{
+		"id": "keycloak-js",
+		"name": "Keycloak JS Adapter",
+		"description": "The official JavaScript adapter for Keycloak. It provides functions for integrating SSO, token refresh, and user roles into front-end web apps using Keycloak as the identity provider.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "0.12 MB",
+		"version": "23.0.5",
+		"stars": 1500,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"JavaScript",
+			"Keycloak",
+			"SSO",
+			"OIDC"
+		],
+		"source": "https://www.keycloak.org/docs/latest/securing_apps/index.html#javascript-adapter"
+	},
+	{
+		"id": "koa-passport",
+		"name": "koa-passport",
+		"description": "koa-passport is Passport.js middleware adapted for Koa applications. It retains full compatibility with Passport strategies while offering seamless integration into Koa's async/await style.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.1 MB",
+		"version": "5.0.1",
+		"stars": 1200,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Koa",
+			"Passport",
+			"OAuth",
+			"Middleware"
+		],
+		"source": "https://github.com/rkusa/koa-passport"
+	},
+	{
+		"id": "koa-passport",
+		"name": "koa-passport",
+		"description": "Koa-passport is a Passport.js middleware wrapper for the Koa framework, enabling seamless integration of authentication strategies into Koa apps.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.05 MB",
+		"version": "5.0.0",
+		"stars": 950,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Koa",
+			"Passport",
+			"Middleware",
+			"Auth"
+		],
+		"source": "https://github.com/rkusa/koa-passport"
+	},
+	{
+		"id": "krakend-jose",
+		"name": "KrakenD JOSE",
+		"description": "KrakenD JOSE is an extension for the KrakenD API Gateway enabling JWT validation, token introspection, and JWKs key rotation. Ideal for securing microservices behind API gateways with OAuth2.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free / Commercial (Enterprise Gateway)",
+		"size": "N/A (Plugin)",
+		"version": "2.6.0",
+		"stars": 6500,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"JWT",
+			"API Gateway",
+			"OAuth2",
+			"Security"
+		],
+		"source": "https://www.krakend.io/docs/enterprise/jose-overview/"
+	},
+	{
+		"id": "laravel-passport",
+		"name": "Laravel Passport",
+		"description": "Laravel Passport is a full OAuth2 server implementation for Laravel apps. It supports personal access tokens, password grants, and client credentials for APIs.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.15 MB",
+		"version": "11.6.0",
+		"stars": 9100,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Laravel",
+			"OAuth2",
+			"API",
+			"Tokens"
+		],
+		"source": "https://laravel.com/docs/passport"
+	},
+	{
+		"id": "laravel-sanctum",
+		"name": "Laravel Sanctum",
+		"description": "Sanctum provides a simple authentication system for SPAs and mobile apps using Laravel. It supports API token generation, session-based authentication, and cookie storage.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.1 MB",
+		"version": "4.0.0",
+		"stars": 3200,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Laravel",
+			"SPA",
+			"Tokens",
+			"PHP"
+		],
+		"source": "https://laravel.com/docs/sanctum"
+	},
+	{
+		"id": "loginradius",
+		"name": "LoginRadius",
+		"description": "LoginRadius is a cloud-based customer identity and access management (CIAM) platform that offers secure login, social login, multi-factor authentication, and user management. It supports integration with major front-end and backend stacks.",
+		"category": "Authentication",
+		"license": "Commercial",
+		"cost": "Free tier / Paid",
+		"size": "N/A (Cloud service)",
+		"version": "2025 API",
+		"stars": 1000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"CIAM",
+			"OAuth",
+			"SSO",
+			"Social Login"
+		],
+		"source": "https://www.loginradius.com"
+	},
+	{
+		"id": "lucia-auth",
+		"name": "Lucia",
+		"description": "Lucia is a simple and powerful authentication library for JavaScript/TypeScript. Built to be framework-agnostic, it supports local and OAuth-based authentication with a focus on type safety and developer experience.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.1 MB",
+		"version": "2.1.3",
+		"stars": 4000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"TypeScript",
+			"OAuth",
+			"Modern",
+			"Local Auth"
+		],
+		"source": "https://lucia-auth.com"
+	},
+	{
+		"id": "mod_auth_openidc",
+		"name": "mod_auth_openidc",
+		"description": "mod_auth_openidc is an Apache HTTPD module that enables authentication using OpenID Connect and OAuth 2.0. It integrates web applications with identity providers like Google, Keycloak, and Azure AD.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "N/A (Apache module)",
+		"version": "2.4.14.3",
+		"stars": 900,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Apache",
+			"OIDC",
+			"OAuth2",
+			"SSO"
+		],
+		"source": "https://github.com/zmartzone/mod_auth_openidc"
+	},
+	{
+		"id": "next-auth",
+		"name": "NextAuth.js",
+		"description": "NextAuth.js is a complete open-source authentication solution for Next.js applications. It supports email/password, OAuth providers, JWT, and database sessions with minimal setup. Ideal for full-stack TypeScript/React apps.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "0.45 MB",
+		"version": "4.24.0",
+		"stars": 21000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Next.js",
+			"JWT",
+			"OAuth",
+			"Full-stack"
+		],
+		"source": "https://next-auth.js.org"
+	},
+	{
+		"id": "nextjs-auth0",
+		"name": "@auth0/nextjs-auth0",
+		"description": "A complete SDK for adding Auth0 authentication to Next.js apps. It handles login, logout, session management, and redirects, using Auth0 as the identity provider with simple integration.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free / Auth0 Account",
+		"size": "0.25 MB",
+		"version": "3.2.2",
+		"stars": 1800,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Next.js",
+			"Auth0",
+			"SSO",
+			"SDK"
+		],
+		"source": "https://github.com/auth0/nextjs-auth0"
+	},
+	{
+		"id": "node-oidc-provider",
+		"name": "oidc-provider",
+		"description": "oidc-provider is an OpenID Connect identity provider implementation for Node.js. It supports dynamic client registration, JWT handling, and various OAuth flows, making it suitable for custom auth servers.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.4 MB",
+		"version": "7.6.0",
+		"stars": 2900,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"OIDC",
+			"OAuth2",
+			"Identity Provider",
+			"Node.js"
+		],
+		"source": "https://github.com/panva/node-oidc-provider"
+	},
+	{
+		"id": "oauth2-proxy",
+		"name": "OAuth2 Proxy",
+		"description": "OAuth2 Proxy is a reverse proxy and static file server that provides authentication using providers like Google, GitHub, and Azure. Often used in Kubernetes or NGINX setups to protect internal services without modifying backend code.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "N/A (Proxy)",
+		"version": "7.5.1",
+		"stars": 7500,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth2",
+			"Proxy",
+			"SSO",
+			"Security"
+		],
+		"source": "https://oauth2-proxy.github.io/oauth2-proxy/"
+	},
+	{
+		"id": "oauth2orize",
+		"name": "OAuth2orize",
+		"description": "OAuth2orize is a toolkit for implementing OAuth2 authorization servers in Node.js. It works with Express and Passport, and supports all OAuth2 grant types, including Authorization Code, Implicit, Client Credentials, and Refresh Token.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.1 MB",
+		"version": "1.12.0",
+		"stars": 3000,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth2",
+			"Node.js",
+			"Authorization Server"
+		],
+		"source": "https://github.com/jaredhanson/oauth2orize"
+	},
+	{
+		"id": "oauthenticator",
+		"name": "OAuthenticator",
+		"description": "OAuthenticator is an authentication plugin for JupyterHub that supports OAuth2 and OpenID Connect providers like GitHub, Google, Azure, and Globus. It's used to secure Jupyter notebooks in academic and enterprise settings.",
+		"category": "Authentication",
+		"license": "BSD-3-Clause",
+		"cost": "Free",
+		"size": "0.2 MB",
+		"version": "15.2.0",
+		"stars": 640,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth2",
+			"OIDC",
+			"JupyterHub",
+			"Python"
+		],
+		"source": "https://github.com/jupyterhub/oauthenticator"
+	},
+	{
+		"id": "oauthlib",
+		"name": "OAuthLib",
+		"description": "OAuthLib is a generic and thorough implementation of the OAuth request-signing logic for Python. It supports OAuth 1.0 and 2.0, and serves as a base for libraries like requests-oauthlib.",
+		"category": "Authentication",
+		"license": "BSD-3-Clause",
+		"cost": "Free",
+		"size": "0.32 MB",
+		"version": "3.2.2",
+		"stars": 2700,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Python",
+			"OAuth",
+			"SSO",
+			"Security"
+		],
+		"source": "https://github.com/oauthlib/oauthlib"
+	},
+	{
+		"id": "oauthlib-php",
+		"name": "OAuth 2.0 Server PHP",
+		"description": "oauth2-server-php is a standards-compliant OAuth2 server implementation written in PHP. It supports the Authorization Code, Implicit, and Client Credentials grant types for secure access to APIs.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.12 MB",
+		"version": "8.3.2",
+		"stars": 5800,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"PHP",
+			"OAuth2",
+			"SSO",
+			"Server"
+		],
+		"source": "https://github.com/thephpleague/oauth2-server"
+	},
+	{
+		"id": "omniauth",
+		"name": "OmniAuth",
+		"description": "OmniAuth is a flexible Ruby authentication system utilizing Rack middleware. It standardizes multi-provider authentication, making it easier to integrate social logins like Facebook, Google, and GitHub.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.14 MB",
+		"version": "2.1.1",
+		"stars": 7800,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth",
+			"Social Login",
+			"Ruby",
+			"Rails"
+		],
+		"source": "https://github.com/omniauth/omniauth"
+	},
+	{
+		"id": "omniauth",
+		"name": "OmniAuth",
+		"description": "OmniAuth is a flexible Ruby authentication system utilizing Rack middleware. It supports a wide range of strategies, including OAuth, SAML, and OpenID.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.12 MB",
+		"version": "2.1.1",
+		"stars": 7800,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Ruby",
+			"OAuth",
+			"Middleware",
+			"SSO"
+		],
+		"source": "https://github.com/omniauth/omniauth"
+	},
+	{
+		"id": "openid-client",
+		"name": "openid-client",
+		"description": "openid-client is a certified OpenID Connect Relying Party (RP) implementation for Node.js. It provides everything needed to securely authenticate users against OpenID Connect-compliant providers like Google and Okta.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.3 MB",
+		"version": "5.5.4",
+		"stars": 1300,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"OpenID",
+			"OAuth2",
+			"OIDC",
+			"Node.js"
+		],
+		"source": "https://github.com/panva/node-openid-client"
+	},
+	{
+		"id": "ory-hydra",
+		"name": "Ory Hydra",
+		"description": "Ory Hydra is an OAuth2 and OpenID Connect server that handles consent and token issuance. Built for high-security enterprise applications, it's a cornerstone of the Ory identity platform.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "N/A (Server)",
+		"version": "2.2.0",
+		"stars": 14000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"OAuth2",
+			"OIDC",
+			"Token Server",
+			"Consent"
+		],
+		"source": "https://www.ory.sh/hydra/"
+	},
+	{
+		"id": "ory-kratos",
+		"name": "Ory Kratos",
+		"description": "Ory Kratos is an open-source identity and user management system. It supports self-service login, registration, MFA, password recovery, and identity verification with a headless, API-driven architecture.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "N/A (Server)",
+		"version": "1.1.0",
+		"stars": 9300,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Identity",
+			"MFA",
+			"OIDC",
+			"Self-Service"
+		],
+		"source": "https://www.ory.sh/kratos/"
+	},
+	{
+		"id": "passport",
+		"name": "Passport.js",
+		"description": "Passport is a flexible and modular authentication middleware for Node.js. It supports a wide range of authentication strategies including username and password, OAuth (Facebook, Google, Twitter), OpenID, and SAML. Designed to be unobtrusive and easily integrated into any Express-based application.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.25 MB",
+		"version": "0.6.0",
+		"stars": 22000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Node.js",
+			"OAuth",
+			"Middleware",
+			"Strategy"
+		],
+		"source": "http://www.passportjs.org/"
+	},
+	{
+		"id": "passport-azure-ad",
+		"name": "passport-azure-ad",
+		"description": "A Passport strategy for authenticating with Azure Active Directory using OpenID Connect and OAuth2. Commonly used in enterprise apps.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.08 MB",
+		"version": "5.0.1",
+		"stars": 1300,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Azure",
+			"OIDC",
+			"OAuth2",
+			"Enterprise"
+		],
+		"source": "https://github.com/AzureAD/passport-azure-ad"
+	},
+	{
+		"id": "passport-facebook",
+		"name": "passport-facebook",
+		"description": "A Passport.js strategy for authenticating with Facebook using OAuth2. It simplifies adding Facebook login to Node.js applications.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.02 MB",
+		"version": "3.0.0",
+		"stars": 1600,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Facebook",
+			"OAuth2",
+			"Social Login",
+			"Passport"
+		],
+		"source": "https://github.com/jaredhanson/passport-facebook"
+	},
+	{
+		"id": "passport-github",
+		"name": "passport-github",
+		"description": "A Passport.js strategy for authenticating with GitHub using OAuth2. Allows easy social login integration for Node.js applications.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.03 MB",
+		"version": "1.1.0",
+		"stars": 1600,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Passport",
+			"GitHub",
+			"OAuth2",
+			"Node.js"
+		],
+		"source": "https://github.com/jaredhanson/passport-github"
+	},
+	{
+		"id": "passport-linkedin-oauth2",
+		"name": "passport-linkedin-oauth2",
+		"description": "A Passport.js strategy for authenticating with LinkedIn using OAuth2. Allows LinkedIn login integration in web applications.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.03 MB",
+		"version": "2.0.0",
+		"stars": 500,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Passport",
+			"LinkedIn",
+			"OAuth2",
+			"Login"
+		],
+		"source": "https://github.com/auth0/passport-linkedin-oauth2"
+	},
+	{
+		"id": "passport-openidconnect",
+		"name": "passport-openidconnect",
+		"description": "passport-openidconnect is a Passport.js strategy for authenticating with OpenID Connect providers. It is ideal for apps needing federated identity across organizations using modern protocols.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.05 MB",
+		"version": "1.0.0",
+		"stars": 500,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"OIDC",
+			"Passport",
+			"SSO",
+			"Federated Identity"
+		],
+		"source": "https://github.com/jaredhanson/passport-openidconnect"
+	},
+	{
+		"id": "passport-saml",
+		"name": "passport-saml",
+		"description": "passport-saml is a SAML 2.0 authentication provider for Passport.js. It enables web apps to authenticate users via enterprise identity providers using secure XML-based assertions.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.14 MB",
+		"version": "4.0.0",
+		"stars": 1400,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"SAML",
+			"Node.js",
+			"Passport",
+			"SSO"
+		],
+		"source": "https://github.com/node-saml/passport-saml"
+	},
+	{
+		"id": "passport-twitter",
+		"name": "passport-twitter",
+		"description": "A Passport.js strategy for authenticating with Twitter using OAuth1. Supports simple social login integration.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.02 MB",
+		"version": "1.0.4",
+		"stars": 1200,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Twitter",
+			"OAuth1",
+			"Passport",
+			"Login"
+		],
+		"source": "https://github.com/jaredhanson/passport-twitter"
+	},
+	{
+		"id": "phoenix-auth",
+		"name": "Pow",
+		"description": "Pow is a robust and modular authentication solution for Phoenix (Elixir) applications. It supports password resets, email confirmation, and extensible features.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.3 MB",
+		"version": "1.0.26",
+		"stars": 1600,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Phoenix",
+			"Elixir",
+			"Modular",
+			"Auth"
+		],
+		"source": "https://github.com/danschultzer/pow"
+	},
+	{
+		"id": "picket-link",
+		"name": "PicketLink",
+		"description": "PicketLink is a security framework for Java applications developed by Red Hat. It supports authentication, authorization, identity management, and integrates with Java EE environments.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "4.5 MB",
+		"version": "2.7.1.Final",
+		"stars": 1200,
+		"last_updated": "2022",
+		"os": "Cross-platform",
+		"tags": [
+			"Java",
+			"SSO",
+			"IDM",
+			"Security"
+		],
+		"source": "https://github.com/picketlink/picketlink"
+	},
+	{
+		"id": "pyoidc",
+		"name": "pyoidc",
+		"description": "pyoidc is a Python implementation of OpenID Connect and OAuth2. It allows developers to build both Relying Party (RP) and Provider (OP) functionality for secure authentication flows.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "0.6 MB",
+		"version": "1.3.0",
+		"stars": 580,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"OIDC",
+			"OAuth2",
+			"Python",
+			"SSO"
+		],
+		"source": "https://github.com/OpenIDC/pyoidc"
+	},
+	{
+		"id": "saml2-js",
+		"name": "saml2-js",
+		"description": "A SAML 2.0 authentication library for Node.js that supports identity provider and service provider flows. Suitable for integrating SAML-based SSO in modern web applications.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.06 MB",
+		"version": "2.0.5",
+		"stars": 1400,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"SAML",
+			"SSO",
+			"Node.js",
+			"Security"
+		],
+		"source": "https://github.com/Clever/saml2"
+	},
+	{
+		"id": "sanic-jwt",
+		"name": "Sanic JWT",
+		"description": "Sanic JWT is a simple JWT authentication extension for the Sanic Python web framework. It provides user authentication, refresh tokens, and customizable protected endpoints.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.07 MB",
+		"version": "1.9.1",
+		"stars": 600,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Sanic",
+			"JWT",
+			"Python",
+			"API Auth"
+		],
+		"source": "https://github.com/ahopkins/sanic-jwt"
+	},
+	{
+		"id": "sentry-auth",
+		"name": "Sentry Auth",
+		"description": "Sentry Auth is part of the Sentry self-hosted stack that handles user authentication using SSO, social logins (Google, GitHub), or email/password. It supports SAML, LDAP, and integrates with enterprise identity providers.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "1.2 MB",
+		"version": "23.12.0",
+		"stars": 35000,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"SAML",
+			"SSO",
+			"LDAP",
+			"Identity Provider"
+		],
+		"source": "https://github.com/getsentry/sentry"
+	},
+	{
+		"id": "shiro",
+		"name": "Apache Shiro",
+		"description": "Apache Shiro is a powerful Java security framework that handles authentication, authorization, cryptography, and session management. It supports LDAP, SSO, and fine-grained access control policies.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "3 MB",
+		"version": "2.0.0",
+		"stars": 1700,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Java",
+			"SSO",
+			"Security",
+			"Authorization"
+		],
+		"source": "https://shiro.apache.org"
+	},
+	{
+		"id": "simple-auth",
+		"name": "Ember Simple Auth",
+		"description": "A lightweight library for authentication in Ember.js applications. It supports custom authenticators and OAuth2 flows.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.2 MB",
+		"version": "5.1.2",
+		"stars": 1900,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Ember",
+			"OAuth2",
+			"Frontend",
+			"Session"
+		],
+		"source": "https://github.com/simplabs/ember-simple-auth"
+	},
+	{
+		"id": "simplejwt",
+		"name": "Django SimpleJWT",
+		"description": "SimpleJWT is a JSON Web Token authentication plugin for Django REST Framework. It provides refresh token rotation, sliding tokens, and blacklist support for secure token-based APIs.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.15 MB",
+		"version": "5.3.1",
+		"stars": 3500,
+		"last_updated": "2024",
+		"os": "Cross-platform",
+		"tags": [
+			"Django",
+			"JWT",
+			"DRF",
+			"API"
+		],
+		"source": "https://github.com/jazzband/django-rest-framework-simplejwt"
+	},
+	{
+		"id": "spring-security",
+		"name": "Spring Security",
+		"description": "Spring Security is a powerful and customizable authentication and access-control framework for Java applications. It handles common security threats like CSRF, session fixation, and clickjacking, and integrates well with OAuth2 and JWT.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "4 MB",
+		"version": "6.2.1",
+		"stars": 7800,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Java",
+			"OAuth2",
+			"JWT",
+			"SSO"
+		],
+		"source": "https://spring.io/projects/spring-security"
+	},
+	{
+		"id": "spring-security",
+		"name": "Spring Security",
+		"description": "Spring Security is a powerful and highly customizable authentication and access control framework for Java applications. It supports session-based auth, JWT, OAuth2, and more.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free",
+		"size": "N/A",
+		"version": "6.2.1",
+		"stars": 8100,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"Java",
+			"Spring",
+			"OAuth2",
+			"Security"
+		],
+		"source": "https://spring.io/projects/spring-security"
+	},
+	{
+		"id": "stormpath-sdk",
+		"name": "Stormpath SDK (Legacy)",
+		"description": "Stormpath was a cloud identity management service for applications. Though discontinued, its open-source SDKs influenced modern auth libraries like Okta and Firebase.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Deprecated",
+		"size": "0.7 MB",
+		"version": "2.0.1",
+		"stars": 1200,
+		"last_updated": "2017",
+		"os": "Cross-platform",
+		"tags": [
+			"Legacy",
+			"Cloud",
+			"OAuth",
+			"JWT"
+		],
+		"source": "https://github.com/stormpath/stormpath-sdk-python"
+	},
+	{
+		"id": "strongloop-loopback-auth",
+		"name": "LoopBack Authentication Component",
+		"description": "This is the official authentication component for the LoopBack 4 framework. It provides decorators, guards, and strategies to implement local or third-party identity providers in Node.js APIs.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.3 MB",
+		"version": "0.10.11",
+		"stars": 950,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"LoopBack",
+			"OAuth",
+			"JWT",
+			"Node.js"
+		],
+		"source": "https://github.com/loopbackio/loopback-next/tree/master/packages/authentication"
+	},
+	{
+		"id": "supertokens",
+		"name": "SuperTokens",
+		"description": "SuperTokens is an open-source authentication solution that provides prebuilt login UIs, passwordless login, social login, JWT & session-based auth. It supports self-hosting and integration with modern stacks like React, Node.js, and Next.js.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free / Commercial",
+		"size": "0.9 MB",
+		"version": "0.23.3",
+		"stars": 12000,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"JWT",
+			"OAuth",
+			"Passwordless",
+			"SSO"
+		],
+		"source": "https://supertokens.com"
+	},
+	{
+		"id": "warden",
+		"name": "Warden",
+		"description": "Warden is a Rack-based Ruby authentication framework used as the base for Devise. It allows developers to build complex authentication strategies while staying modular and customizable.",
+		"category": "Authentication",
+		"license": "MIT",
+		"cost": "Free",
+		"size": "0.18 MB",
+		"version": "1.2.9",
+		"stars": 3300,
+		"last_updated": "2023",
+		"os": "Cross-platform",
+		"tags": [
+			"Ruby",
+			"Rack",
+			"Middleware",
+			"Authentication"
+		],
+		"source": "https://github.com/wardencommunity/warden"
+	},
+	{
+		"id": "zitadel",
+		"name": "ZITADEL",
+		"description": "ZITADEL is a cloud-native identity and access management system built with Go and CockroachDB. It supports passwordless login, SSO, OIDC, and fine-grained access policies with event-driven architecture.",
+		"category": "Authentication",
+		"license": "Apache-2.0",
+		"cost": "Free / Commercial",
+		"size": "N/A (Cloud / Self-hosted)",
+		"version": "2.2.0",
+		"stars": 4200,
+		"last_updated": "2025",
+		"os": "Cross-platform",
+		"tags": [
+			"OIDC",
+			"Passwordless",
+			"IAM",
+			"SSO"
+		],
+		"source": "https://zitadel.com"
+	}
+]
