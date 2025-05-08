@@ -1,26 +1,7 @@
-[
-  {
-    "id": "vishnu-lib",
-    "name": "VishnuLibUpdated",
-    "description": "VishnuLib is a sample frontend library designed for educational and prototype purposes. It includes simple UI components and layout helpers.",
-    "version": "1.0.0",
-    "category": "Frontend",
-    "license": "MIT",
-    "stars": "150",
-    "cost": "Free",
-    "size": "500 KB",
-    "source": "https://github.com/example/vishnu-lib",
-    "officialUrl": "https://vishnulib.dev",
-    "tags": [
-      "ui",
-      "frontend",
-      "components",
-      "demo"
-    ]
-  },
+[  
   {
     "id": "pavan-lib",
-    "name": "PavanLib",
+    "name": "PavanLibUPDATED",
     "description": "PavanLib is a backend utility library offering REST API support, middleware utilities, and custom error handling mechanisms.",
     "version": "2.1.3",
     "category": "Backend",
