@@ -19,26 +19,7 @@
         ],
         "source": "https://react.dev"
     },
-    {
-        "id": "pavanvishnu",
-        "name": "pavanvishnuLIbt",
-        "description": "React is a popular open-source JavaScript library for building dynamic user interfaces. Maintained by Meta (Facebook) and a broad community, it introduced a component-based architecture and a virtual DOM for efficient rendering. It’s widely used for developing single-page applications and can also render on the server or power mobile apps via React Native.",
-        "category": "Frontend",
-        "license": "MIT",
-        "cost": "Free",
-        "size": "0.17 MB",
-        "version": "19.1.0",
-        "stars": 235000,
-        "last_updated": "March 2025",
-        "os": "Cross-platform",
-        "tags": [
-            "JavaScript",
-            "UI",
-            "Library",
-            "Web"
-        ],
-        "source": "https://react.dev"
-    },
+    
     {
         "id": "angular",
         "name": "Angular",
