@@ -3156,48 +3156,7 @@
         ],
         "source": "https://questdb.io/"
     },
-    {
-        "id": "VictoriaMetrics",
-        "name": "VictoriaMetrics",
-        "description": "VictoriaMetrics is a fast, cost-effective time series database and monitoring solution. It's compatible with Prometheus and Grafana, offering high ingestion rates, compression, and long-term retention for large-scale metrics data. Suitable for DevOps, SRE, and observability workflows.",
-        "category": "Backend",
-        "license": "Apache-2.0",
-        "cost": "Free / Paid",
-        "size": "70 MB",
-        "version": "1.91.0",
-        "stars": 9000,
-        "last_updated": "May 2024",
-        "os": "Cross-platform",
-        "tags": [
-            "Time Series",
-            "Prometheus",
-            "Metrics",
-            "Monitoring",
-            "DevOps"
-        ],
-        "source": "https://victoriametrics.com/"
-    },
-    {
-        "id": "Mimir",
-        "name": "Grafana Mimir",
-        "description": "Mimir is Grafana’s long-term storage solution for Prometheus metrics. It is horizontally scalable and supports multi-tenancy, highly available ingestion, and native PromQL compatibility. Mimir simplifies centralized metrics storage for large-scale observability platforms.",
-        "category": "Backend",
-        "license": "AGPL-3.0",
-        "cost": "Free",
-        "size": "95 MB",
-        "version": "2.11.0",
-        "stars": 4600,
-        "last_updated": "May 2024",
-        "os": "Cross-platform",
-        "tags": [
-            "Prometheus",
-            "Grafana",
-            "Metrics",
-            "Storage",
-            "Scalable"
-        ],
-        "source": "https://grafana.com/oss/mimir/"
-    },
+    
     {
         "id": "k6",
         "name": "k6",
